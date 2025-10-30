@@ -1,0 +1,45 @@
+object MainView: TMainView
+  Left = 0
+  Top = 0
+  ClientHeight = 310
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Btn1: TButton
+    Position.X = 412.000000000000000000
+    Position.Y = 32.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 61.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Btn1'
+    TextSettings.Trimming = None
+    OnClick = Btn1Click
+  end
+  object LblFMAppClassHWND: TLabel
+    Position.X = 184.000000000000000000
+    Position.Y = 100.000000000000000000
+    TabOrder = 1
+  end
+  object LblFormHWND: TLabel
+    Position.X = 184.000000000000000000
+    Position.Y = 133.000000000000000000
+    Text = 'Lbl'
+    TabOrder = 2
+  end
+  object Lbl1: TLabel
+    Position.X = 52.000000000000000000
+    Position.Y = 100.000000000000000000
+    Text = 'FMAppClass HWND:'
+    TabOrder = 3
+  end
+  object Lbl2: TLabel
+    Position.X = 52.000000000000000000
+    Position.Y = 133.000000000000000000
+    Text = 'Form HWND:'
+    TabOrder = 4
+  end
+end

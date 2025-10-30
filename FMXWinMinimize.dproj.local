@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.757,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.797,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.828,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.655,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.856,F:\2050\FMX\WinMinimize\Main.View.fmx=F:\2040\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.115,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.024,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.135,=F:\2050\FMX\WinMinimize\FMX.TaskbarFix.Win.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.856,F:\2050\FMX\WinMinimize\Main.View.pas=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.862,=F:\2050\FMX\WinMinimize\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.709,F:\2050\FMX\WinMinimize\FMXWinMinimize.dproj=F:\2040\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.899,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.145,F:\2050\FMX\WinMinimize\FMXTaskbarFix.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.042,F:\2050\FMX\WinMinimize\FMXTaskbarFix.pas=F:\2050\FMX\WinMinimize\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
