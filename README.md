@@ -37,10 +37,10 @@ After some deep digging, I found the real secret:
 In VCL, everything revolves around the TApplication object.
 But in FMX, Windows uses a hidden internal form called TFMAppClass, which silently acts as the host and owner of your main form.
 
-The twist?
+The twist?  
 This hidden window interferes with proper taskbar registration and DWM animations.
 
-My pre-release fix isolates and detaches that host form safely, restoring native minimize/restore animations, single taskbar behavior, and full control — without closing or breaking the app!
+My pre-release fix isolates and detaches that host form safely, restoring native minimize/restore animations, single taskbar behavior, and full control — without closing or breaking the app!  
 
-Stay tuned — code and details coming soon 👇
+Stay tuned — code and details coming soon 👇  
 #Delphi #FMX #Windows #TaskbarFix #NativeUI #Win32 #FireMonkey
